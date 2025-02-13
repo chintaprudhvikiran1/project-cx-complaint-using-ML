@@ -1,8 +1,13 @@
 ###Customer Complaint Prediction
+
 ##Overview
+
 This repository contains an end-to-end machine learning pipeline to predict customer complaints using various machine learning models. The dataset undergoes extensive exploratory data analysis (EDA), feature engineering, and model evaluation to determine the best-suited algorithm for predictive analysis.
+
 ##Project Workflow
+
 ##1. Exploratory Data Analysis (EDA)
+
 •	Dataset Information: Checked data types, missing values, and summary statistics using .info() and .describe().
 •	Handling Missing Values: Identified and imputed missing values.
 •	Target Variable Distribution: Analyzed the distribution of the target variable.
